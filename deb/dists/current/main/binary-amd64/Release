@@ -1,0 +1,5 @@
+Component: main
+Origin: Ragnarok
+Label: Ragnarok
+Architecture: amd64
+Description: Ragnarok's deb package repository for xorg pkgs

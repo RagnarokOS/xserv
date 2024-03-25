@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 25 Mar 2024 12:38:13 -0400
+Source: cwm
+Binary: cwm cwm-dbgsym
+Architecture: amd64
+Version: 999+ragnarok01
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ cwm        - Calm Window Manager
+Changes:
+ cwm (999+ragnarok01) stable; urgency=medium
+ .
+   * Initial build of OpenBSD's Calm Window Manager.
+Checksums-Sha1:
+ d31a1f4b6b44a23e15365199792b1e7dda93df7d 7364 cwm-dbgsym_999+ragnarok01_amd64.deb
+ 0ada3cc4de06e125c9c6c8d64b4608a67b63697e 6764 cwm_999+ragnarok01_amd64.buildinfo
+ 0bbe50c80b8b0f6237a7cd34abaae23a2a4bfb2a 51136 cwm_999+ragnarok01_amd64.deb
+Checksums-Sha256:
+ c71a91abb3e69aa3524c0577dadc9b1af315a3996b21885e69822fbe13c22cc6 7364 cwm-dbgsym_999+ragnarok01_amd64.deb
+ bd57fc0536bd1739444cf7fdf9a6d00f610fe5b4c5e73ed2e0c1cfdf395ae944 6764 cwm_999+ragnarok01_amd64.buildinfo
+ eefae757e83cc4dc0e3fc0aabf4a9ff472360935d58ca1847aaf5a084259b9bc 51136 cwm_999+ragnarok01_amd64.deb
+Files:
+ 669a1ddfc0725c3006fdf3777a649d81 7364 debug optional cwm-dbgsym_999+ragnarok01_amd64.deb
+ 73ac94f5afbe82f20bb86820ca9076e0 6764 x11 optional cwm_999+ragnarok01_amd64.buildinfo
+ b9e852af075651b273a9bcc4319aa6b7 51136 x11 optional cwm_999+ragnarok01_amd64.deb

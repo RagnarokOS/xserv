@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 25 Mar 2024 12:38:13 -0400
+Source: rt
+Binary: rt rt-dbgsym
+Architecture: amd64
+Version: 01
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ rt         - Ragnarok terminal
+Changes:
+ rt (01) stable; urgency=medium
+ .
+   * Initial build of rt (Ragnarok's fork of Suckless' st).
+Checksums-Sha1:
+ ee23701b52faede1881b3464babf733b2c181a75 5728 rt-dbgsym_01_amd64.deb
+ d97a797f0c676b975f0e09b3446ef3b4efdf0261 6669 rt_01_amd64.buildinfo
+ d317134435212b0b1d89a4195e7fc00c3fc14479 43176 rt_01_amd64.deb
+Checksums-Sha256:
+ 22b5e46c908f17fb770d6ebdece25d81357ff42cc15c0acc585b0bee2b5f8f12 5728 rt-dbgsym_01_amd64.deb
+ 5d78865023744bc0d19625391102256919e40171771dc813a8c67041eab3393b 6669 rt_01_amd64.buildinfo
+ 849116ef8f0411b0eea565076cffab55ae21697d9d214a7fbc7f51aadeee398d 43176 rt_01_amd64.deb
+Files:
+ 99d98d1956f44166edfaed0df9764819 5728 debug optional rt-dbgsym_01_amd64.deb
+ 63a247bcf182f9f38f7ed6dec49d916c 6669 x11 optional rt_01_amd64.buildinfo
+ 5d44b03b1f02d222ba31fb1500d3f920 43176 x11 optional rt_01_amd64.deb

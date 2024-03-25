@@ -1,0 +1,69 @@
+Package: cwm
+Version: 999+ragnarok01
+Architecture: amd64
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Installed-Size: 145
+Provides: x-window-manager
+Multi-Arch: foreign
+Priority: optional
+Section: x11
+Filename: pool/main/c/cwm/cwm_999+ragnarok01_amd64.deb
+Size: 51136
+SHA256: eefae757e83cc4dc0e3fc0aabf4a9ff472360935d58ca1847aaf5a084259b9bc
+SHA1: 0bbe50c80b8b0f6237a7cd34abaae23a2a4bfb2a
+MD5sum: b9e852af075651b273a9bcc4319aa6b7
+Description: Calm Window Manager
+ Portable version of OpenBSD's calm window manager.
+
+Package: dmenu
+Version: 999+ragnarok01
+Architecture: amd64
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Installed-Size: 72
+Multi-Arch: foreign
+Priority: optional
+Section: x11
+Filename: pool/main/d/dmenu/dmenu_999+ragnarok01_amd64.deb
+Size: 19036
+SHA256: 4faa00f2130034ce5f4850ec72cf6f9b0cc9af9f60deb8f8aa96d046d9b5c73f
+SHA1: 7a886cb24adbeacbdefb53dfe6e400cf202da52e
+MD5sum: 973d968fc9d0747d20430b4037311365
+Description: dmenu
+ This is Ragnarok's fork of dmenu.
+
+Package: raven
+Version: 01
+Architecture: amd64
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Installed-Size: 82
+Provides: x-window-manager
+Multi-Arch: foreign
+Priority: optional
+Section: x11
+Filename: pool/main/r/raven/raven_01_amd64.deb
+Size: 27912
+SHA256: 026249338a9e3d73f010236ab98ce9ecff2bbf7928fac4ea239c0ffd9b28a275
+SHA1: d1198cddaf331be5fd0459a3d2420c2b84853de9
+MD5sum: f1840c9bc21272727b819044662c9e07
+Description: A Dynamic Window Manager
+ This is Ragnarok's fork of dwm.
+
+Package: rt
+Version: 01
+Architecture: amd64
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Installed-Size: 128
+Provides: x-terminal-emulator
+Multi-Arch: foreign
+Priority: optional
+Section: x11
+Filename: pool/main/r/rt/rt_01_amd64.deb
+Size: 43176
+SHA256: 849116ef8f0411b0eea565076cffab55ae21697d9d214a7fbc7f51aadeee398d
+SHA1: d317134435212b0b1d89a4195e7fc00c3fc14479
+MD5sum: 5d44b03b1f02d222ba31fb1500d3f920
+Description: Ragnarok terminal
+ rt is a fork of Suckless' st. It is primarily designed to offer
+ a minimal terminal for tmux(1), and can be configured entirely
+ through the .Xresources file.
+

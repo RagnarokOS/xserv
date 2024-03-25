@@ -1,0 +1,6 @@
+# Ignore everything except .gitignore, .buildinfo, .changes and README.md
+*
+!.gitignore
+!*.buildinfo
+!*.changes
+!README.md

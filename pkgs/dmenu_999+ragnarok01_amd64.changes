@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 25 Mar 2024 12:38:13 -0400
+Source: dmenu
+Binary: dmenu dmenu-dbgsym
+Architecture: amd64
+Version: 999+ragnarok01
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ dmenu      - dmenu
+Changes:
+ dmenu (999+ragnarok01) stable; urgency=medium
+ .
+   * Initial build of Ragnarok's dmenu fork.
+Checksums-Sha1:
+ c8ac31acc26a82a37deb97fb76e65008affebe95 4420 dmenu-dbgsym_999+ragnarok01_amd64.deb
+ a6f7decf9b7616c202954fd678168ef893d48fbc 6786 dmenu_999+ragnarok01_amd64.buildinfo
+ 7a886cb24adbeacbdefb53dfe6e400cf202da52e 19036 dmenu_999+ragnarok01_amd64.deb
+Checksums-Sha256:
+ 7d6dda3237efc94f3cc114013c7c72a881855dc186ff060b0aba50a3ea3c2230 4420 dmenu-dbgsym_999+ragnarok01_amd64.deb
+ 8b515cbdeb21cad9be8951f2d1cc6eb6218c0d99dfc80af827dc42db42ae6892 6786 dmenu_999+ragnarok01_amd64.buildinfo
+ 4faa00f2130034ce5f4850ec72cf6f9b0cc9af9f60deb8f8aa96d046d9b5c73f 19036 dmenu_999+ragnarok01_amd64.deb
+Files:
+ ec2bab41138315ef17d0c5d0a72966b9 4420 debug optional dmenu-dbgsym_999+ragnarok01_amd64.deb
+ 337aedf76bd473bc75eadd83aa28e5b9 6786 x11 optional dmenu_999+ragnarok01_amd64.buildinfo
+ 973d968fc9d0747d20430b4037311365 19036 x11 optional dmenu_999+ragnarok01_amd64.deb

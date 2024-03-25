@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 25 Mar 2024 12:38:13 -0400
+Source: raven
+Binary: raven raven-dbgsym
+Architecture: amd64
+Version: 01
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ raven      - A Dynamic Window Manager
+Changes:
+ raven (01) stable; urgency=medium
+ .
+   * Initial build of Raven.
+Checksums-Sha1:
+ 453b9f419722c95b2a5574046372b7d4a59f2305 4564 raven-dbgsym_01_amd64.deb
+ 53f595899359d3d41fd52ef32766d8dab4469d0a 6702 raven_01_amd64.buildinfo
+ d1198cddaf331be5fd0459a3d2420c2b84853de9 27912 raven_01_amd64.deb
+Checksums-Sha256:
+ 59a408cafff67fd4229efabbc1d0945d032df4addc3427158c5bca18a08018c8 4564 raven-dbgsym_01_amd64.deb
+ 91cccec603bde9118becac3c349ef58032da2552716a87af8f9a5d4b41246e52 6702 raven_01_amd64.buildinfo
+ 026249338a9e3d73f010236ab98ce9ecff2bbf7928fac4ea239c0ffd9b28a275 27912 raven_01_amd64.deb
+Files:
+ 7b8ab66ebf35bacecd6f884378cd0e3b 4564 debug optional raven-dbgsym_01_amd64.deb
+ 735edbb95ab2b44fb4ed6629fe436ec6 6702 x11 optional raven_01_amd64.buildinfo
+ f1840c9bc21272727b819044662c9e07 27912 x11 optional raven_01_amd64.deb
