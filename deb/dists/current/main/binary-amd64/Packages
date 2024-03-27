@@ -41,10 +41,10 @@ Multi-Arch: foreign
 Priority: optional
 Section: x11
 Filename: pool/main/r/raven/raven_01_amd64.deb
-Size: 27912
-SHA256: 026249338a9e3d73f010236ab98ce9ecff2bbf7928fac4ea239c0ffd9b28a275
-SHA1: d1198cddaf331be5fd0459a3d2420c2b84853de9
-MD5sum: f1840c9bc21272727b819044662c9e07
+Size: 27888
+SHA256: 3c0768ea34d925277bbca06b8739638a13ed9ef138bdc3fa22bd3e7a86e859df
+SHA1: 01ffb6b7551bcb89e60e2f5e123ecd0c5099ec6d
+MD5sum: a5f451bb433c28e5e0cb047335fbf7aa
 Description: A Dynamic Window Manager
  This is Ragnarok's fork of dwm.
 

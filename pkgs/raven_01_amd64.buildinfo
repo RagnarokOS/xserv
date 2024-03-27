@@ -4,17 +4,17 @@ Binary: raven raven-dbgsym
 Architecture: amd64
 Version: 01
 Checksums-Md5:
- 7b8ab66ebf35bacecd6f884378cd0e3b 4564 raven-dbgsym_01_amd64.deb
- f1840c9bc21272727b819044662c9e07 27912 raven_01_amd64.deb
+ 4abf123da0e5715a165fad9e74790d64 4568 raven-dbgsym_01_amd64.deb
+ a5f451bb433c28e5e0cb047335fbf7aa 27888 raven_01_amd64.deb
 Checksums-Sha1:
- 453b9f419722c95b2a5574046372b7d4a59f2305 4564 raven-dbgsym_01_amd64.deb
- d1198cddaf331be5fd0459a3d2420c2b84853de9 27912 raven_01_amd64.deb
+ 348f3a4a3a9a86da8e4f891d61b4e0f64273950c 4568 raven-dbgsym_01_amd64.deb
+ 01ffb6b7551bcb89e60e2f5e123ecd0c5099ec6d 27888 raven_01_amd64.deb
 Checksums-Sha256:
- 59a408cafff67fd4229efabbc1d0945d032df4addc3427158c5bca18a08018c8 4564 raven-dbgsym_01_amd64.deb
- 026249338a9e3d73f010236ab98ce9ecff2bbf7928fac4ea239c0ffd9b28a275 27912 raven_01_amd64.deb
+ 061885c4a896d75cb57dd6c39a6e93d219b6bb7d227748576737b87acf145b0e 4568 raven-dbgsym_01_amd64.deb
+ 3c0768ea34d925277bbca06b8739638a13ed9ef138bdc3fa22bd3e7a86e859df 27888 raven_01_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 25 Mar 2024 12:43:49 -0400
+Build-Date: Wed, 27 Mar 2024 12:35:41 -0400
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
 Installed-Build-Depends:
@@ -183,8 +183,8 @@ Installed-Build-Depends:
  zlib1g (= 1:1.2.13.dfsg-99ragnarok01)
 Environment:
  DEB_BUILD_OPTIONS="parallel=3"
- DEB_CFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/xserv/raven/equivs.AR7fa1=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
- DEB_CXXFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/xserv/raven/equivs.AR7fa1=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
+ DEB_CFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/xserv/raven/equivs.5iL93Y=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
+ DEB_CXXFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/xserv/raven/equivs.5iL93Y=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
  DEB_LDFLAGS_SET="-Wl,-z,relro -Wl,-z,now -Wl,--as-needed"
  LANG="en_CA.UTF-8"
  MAKEFLAGS=""
