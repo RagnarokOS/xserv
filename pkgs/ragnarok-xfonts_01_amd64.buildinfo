@@ -4,14 +4,14 @@ Binary: ragnarok-xfonts
 Architecture: amd64
 Version: 01
 Checksums-Md5:
- 21113fb63411e1a5145961fdbf4b7785 2244 ragnarok-xfonts_01_amd64.deb
+ 125cb5ee3f3cdc836b10f732507252dc 2240 ragnarok-xfonts_01_amd64.deb
 Checksums-Sha1:
- b824f06a3d690dff40056e5a944aa8a2c64860ab 2244 ragnarok-xfonts_01_amd64.deb
+ f6aa4db9fed1bc3dae0202529005e4d456502c38 2240 ragnarok-xfonts_01_amd64.deb
 Checksums-Sha256:
- fcc6b1b42c25227f5982628d8becb56c1d52a8d513af91265f0563c5e3dba039 2244 ragnarok-xfonts_01_amd64.deb
+ ef43254f80cb0e77de041a1503858082994750c828f3801a1620502c0cb5b7d3 2240 ragnarok-xfonts_01_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sun, 31 Mar 2024 12:42:01 -0400
+Build-Date: Tue, 02 Apr 2024 13:03:18 -0400
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
 Installed-Build-Depends:
@@ -180,9 +180,9 @@ Installed-Build-Depends:
  zlib1g (= 1:1.2.13.dfsg-99ragnarok01)
 Environment:
  DEB_BUILD_OPTIONS="parallel=3"
- DEB_CFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/src/ragnarok-xserv/equivs.G3cKux=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
- DEB_CXXFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/src/ragnarok-xserv/equivs.G3cKux=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
+ DEB_CFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/src/ragnarok-xserv/equivs.4ViXdH=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
+ DEB_CXXFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/src/ragnarok-xserv/equivs.4ViXdH=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
  DEB_LDFLAGS_SET="-Wl,-z,relro -Wl,-z,now -Wl,--as-needed"
  LANG="en_CA.UTF-8"
  MAKEFLAGS="w"
- SOURCE_DATE_EPOCH="1711903319"
+ SOURCE_DATE_EPOCH="1712077396"

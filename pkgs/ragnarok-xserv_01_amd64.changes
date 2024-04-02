@@ -15,11 +15,11 @@ Changes:
  .
    * Initial build of ragnarok-xserv.
 Checksums-Sha1:
- 980aa91e1e19b6ed1363011758caa55d1655a5ef 6520 ragnarok-xserv_01_amd64.buildinfo
- 074fee301a05b9e673bea195a9435a7e42bcc09e 1930600 ragnarok-xserv_01_amd64.deb
+ 8f4a4d5df6a8061bc4f8545133dbfbd13f46b94a 6520 ragnarok-xserv_01_amd64.buildinfo
+ a15f97f3b36a2f990c7ec65a72ff6dbf10edf745 1930616 ragnarok-xserv_01_amd64.deb
 Checksums-Sha256:
- 12f65673f0328fd975912d4530145a1c4dabee56a1aa854cfb547d30da7577f6 6520 ragnarok-xserv_01_amd64.buildinfo
- 935d262d8b4c1cc3e91434e79c4985b33ab701c9aeefc3865375c18fa5fa8047 1930600 ragnarok-xserv_01_amd64.deb
+ 697d0d18856216c2afc463145f827ad87b0f522cc685b62e2b1d6d9e5087c1b5 6520 ragnarok-xserv_01_amd64.buildinfo
+ 179e2f9a759935181c7e6b86d5e3ce0890ea05e7afba7ef7c676b01afdf87cb7 1930616 ragnarok-xserv_01_amd64.deb
 Files:
- 27d9637fc7fb2eb75b5170c5b3e4938b 6520 misc optional ragnarok-xserv_01_amd64.buildinfo
- 3527fa987808d77c13bd067a1abd7930 1930600 misc optional ragnarok-xserv_01_amd64.deb
+ 4fb88c7e3600c29d099e45bdcd1ad10a 6520 misc optional ragnarok-xserv_01_amd64.buildinfo
+ 0c9f24a11bf72decb8659f4a4e7a8dc4 1930616 misc optional ragnarok-xserv_01_amd64.deb

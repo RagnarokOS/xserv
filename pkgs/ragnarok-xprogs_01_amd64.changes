@@ -15,11 +15,11 @@ Changes:
  .
    * Initial build of ragnarok-xprogs.
 Checksums-Sha1:
- b5da22656162680017b67a6eed15473537d54f28 6516 ragnarok-xprogs_01_amd64.buildinfo
+ edff4b529177df1c5224c9c16521c5a3568b8748 6516 ragnarok-xprogs_01_amd64.buildinfo
  28cb6bc6ddded63df7221304e63c3ac417cee7fa 3736 ragnarok-xprogs_01_amd64.deb
 Checksums-Sha256:
- 8ccf732a66ed3df4e7f0cf58ad3c77e9cfff051896ea454609873d08ced548c2 6516 ragnarok-xprogs_01_amd64.buildinfo
+ 8aa022b15811117ab1b7f765543a914302444793ef2b246169188fa6c4516b62 6516 ragnarok-xprogs_01_amd64.buildinfo
  a800b093aaf3607214578f24943709a0b90827e1a2def537cbf11a9e63f0fe31 3736 ragnarok-xprogs_01_amd64.deb
 Files:
- 9a0de4689be5694fb7a02ac830e46f39 6516 misc optional ragnarok-xprogs_01_amd64.buildinfo
+ 333b0bc9300e4cae14df629e776e3052 6516 misc optional ragnarok-xprogs_01_amd64.buildinfo
  bf2d237ed47459fdd95254a77e67a782 3736 misc optional ragnarok-xprogs_01_amd64.deb
