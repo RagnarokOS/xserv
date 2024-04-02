@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Fri, 29 Mar 2024 12:45:45 -0500
+Source: ragnarok-xserv
+Binary: ragnarok-xserv
+Architecture: amd64
+Version: 01
+Distribution: unstable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ ragnarok-xserv - meta-package for Ragnarok's xserver set.
+Changes:
+ ragnarok-xserv (01) unstable; urgency=medium
+ .
+   * Initial build of ragnarok-xserv.
+Checksums-Sha1:
+ 980aa91e1e19b6ed1363011758caa55d1655a5ef 6520 ragnarok-xserv_01_amd64.buildinfo
+ 074fee301a05b9e673bea195a9435a7e42bcc09e 1930600 ragnarok-xserv_01_amd64.deb
+Checksums-Sha256:
+ 12f65673f0328fd975912d4530145a1c4dabee56a1aa854cfb547d30da7577f6 6520 ragnarok-xserv_01_amd64.buildinfo
+ 935d262d8b4c1cc3e91434e79c4985b33ab701c9aeefc3865375c18fa5fa8047 1930600 ragnarok-xserv_01_amd64.deb
+Files:
+ 27d9637fc7fb2eb75b5170c5b3e4938b 6520 misc optional ragnarok-xserv_01_amd64.buildinfo
+ 3527fa987808d77c13bd067a1abd7930 1930600 misc optional ragnarok-xserv_01_amd64.deb

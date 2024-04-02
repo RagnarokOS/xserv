@@ -31,6 +31,60 @@ MD5sum: 973d968fc9d0747d20430b4037311365
 Description: dmenu
  This is Ragnarok's fork of dmenu.
 
+Package: ragnarok-xfonts
+Version: 01
+Architecture: amd64
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Installed-Size: 9
+Depends: fonts-dejavu, fonts-liberation, fonts-spleen
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Filename: pool/main/r/ragnarok-xfonts/ragnarok-xfonts_01_amd64.deb
+Size: 2244
+SHA256: fcc6b1b42c25227f5982628d8becb56c1d52a8d513af91265f0563c5e3dba039
+SHA1: b824f06a3d690dff40056e5a944aa8a2c64860ab
+MD5sum: 21113fb63411e1a5145961fdbf4b7785
+Description: meta-package for Ragnarok's xfonts "set".
+ This is a meta-package which depends on all fonts that
+ are needed for Ragnarok's xfonts set.
+
+Package: ragnarok-xprogs
+Version: 01
+Architecture: amd64
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Installed-Size: 17
+Depends: raven, cwm, rt, dmenu, libfontconfig1-dev, libfreetype6-dev, libx11-dev, libxft-dev, libxinerama-dev, libxcb1-dev, libxcb-util-dev, libxcb-cursor-dev
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Filename: pool/main/r/ragnarok-xprogs/ragnarok-xprogs_01_amd64.deb
+Size: 3736
+SHA256: a800b093aaf3607214578f24943709a0b90827e1a2def537cbf11a9e63f0fe31
+SHA1: 28cb6bc6ddded63df7221304e63c3ac417cee7fa
+MD5sum: bf2d237ed47459fdd95254a77e67a782
+Description: meta-package for Ragnarok's xprogs set.
+ This is a meta-package which depends on all programs that
+ are needed for Ragnarok's xprogs set.
+
+Package: ragnarok-xserv
+Version: 01
+Architecture: amd64
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Installed-Size: 1894
+Depends: xserver-xorg-core, xinit, x11-xserver-utils, xdg-user-dirs, xclip, xcompmgr, xterm, xwallpaper, alsa-utils
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Filename: pool/main/r/ragnarok-xserv/ragnarok-xserv_01_amd64.deb
+Size: 1930600
+SHA256: 935d262d8b4c1cc3e91434e79c4985b33ab701c9aeefc3865375c18fa5fa8047
+SHA1: 074fee301a05b9e673bea195a9435a7e42bcc09e
+MD5sum: 3527fa987808d77c13bd067a1abd7930
+Description: meta-package for Ragnarok's xserver set.
+ This is a meta-package which depends on all programs that
+ are needed for Ragnarok's xserver set.
+
 Package: raven
 Version: 01
 Architecture: amd64

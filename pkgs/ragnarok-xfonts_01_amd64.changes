@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 31 Mar 2024 12:41:59 -0400
+Source: ragnarok-xfonts
+Binary: ragnarok-xfonts
+Architecture: amd64
+Version: 01
+Distribution: unstable
+Urgency: low
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ ragnarok-xfonts - meta-package for Ragnarok's xfonts "set".
+Changes:
+ ragnarok-xfonts (01) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ 8082c3c37adab810bd0920206ff95cf09bb1f685 6516 ragnarok-xfonts_01_amd64.buildinfo
+ b824f06a3d690dff40056e5a944aa8a2c64860ab 2244 ragnarok-xfonts_01_amd64.deb
+Checksums-Sha256:
+ 68c7b96448ef1ad8279e809fbcf5305a113fc6fd0ea2fc1326c0fc63d7ed3295 6516 ragnarok-xfonts_01_amd64.buildinfo
+ fcc6b1b42c25227f5982628d8becb56c1d52a8d513af91265f0563c5e3dba039 2244 ragnarok-xfonts_01_amd64.deb
+Files:
+ 9eeadd5b47b2b76c730359ab64d92312 6516 misc optional ragnarok-xfonts_01_amd64.buildinfo
+ 21113fb63411e1a5145961fdbf4b7785 2244 misc optional ragnarok-xfonts_01_amd64.deb
