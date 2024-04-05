@@ -4,14 +4,14 @@ Binary: ragnarok-xserv
 Architecture: amd64
 Version: 01
 Checksums-Md5:
- 0c9f24a11bf72decb8659f4a4e7a8dc4 1930616 ragnarok-xserv_01_amd64.deb
+ c7f677fee665f9c39dad92f3a9e039d5 1942776 ragnarok-xserv_01_amd64.deb
 Checksums-Sha1:
- a15f97f3b36a2f990c7ec65a72ff6dbf10edf745 1930616 ragnarok-xserv_01_amd64.deb
+ 3760272144e5b2bb1edffb1108e0c7faf08d1259 1942776 ragnarok-xserv_01_amd64.deb
 Checksums-Sha256:
- 179e2f9a759935181c7e6b86d5e3ce0890ea05e7afba7ef7c676b01afdf87cb7 1930616 ragnarok-xserv_01_amd64.deb
+ cfc4c6c2911d1f6b73daf043a28b8b654cb9a5a1034e5d53da092a0721eb4abc 1942776 ragnarok-xserv_01_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 02 Apr 2024 13:03:23 -0400
+Build-Date: Fri, 05 Apr 2024 11:48:14 -0400
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
 Installed-Build-Depends:
@@ -180,8 +180,8 @@ Installed-Build-Depends:
  zlib1g (= 1:1.2.13.dfsg-99ragnarok01)
 Environment:
  DEB_BUILD_OPTIONS="parallel=3"
- DEB_CFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/src/ragnarok-xserv/equivs.zIjnFL=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
- DEB_CXXFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/src/ragnarok-xserv/equivs.zIjnFL=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
+ DEB_CFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/src/ragnarok-xserv/equivs.Tx74zV=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
+ DEB_CXXFLAGS_SET="-g -O2 -ffile-prefix-map=/home/lecorbeau/.local/src/src/ragnarok-xserv/equivs.Tx74zV=. -fstack-protector-strong -Wformat -Werror=format-security -gdwarf-4 -fstack-clash-protection -fcf-protection"
  DEB_LDFLAGS_SET="-Wl,-z,relro -Wl,-z,now -Wl,--as-needed"
  LANG="en_CA.UTF-8"
  MAKEFLAGS="w"

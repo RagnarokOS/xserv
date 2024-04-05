@@ -41,10 +41,10 @@ Multi-Arch: foreign
 Priority: optional
 Section: misc
 Filename: pool/main/r/ragnarok-xfonts/ragnarok-xfonts_01_amd64.deb
-Size: 2240
-SHA256: ef43254f80cb0e77de041a1503858082994750c828f3801a1620502c0cb5b7d3
-SHA1: f6aa4db9fed1bc3dae0202529005e4d456502c38
-MD5sum: 125cb5ee3f3cdc836b10f732507252dc
+Size: 2244
+SHA256: c2430cc5987e230471668c3ce88a548a58e8a61cdf14d77a7b25e683eccce878
+SHA1: 57a90235df305f9ae79be6e9624e36499707d4ae
+MD5sum: 5fa10232ce922ba61e1e3ee1ec212c84
 Description: meta-package for Ragnarok's xfonts "set".
  This is a meta-package which depends on all fonts that
  are needed for Ragnarok's xfonts set.
@@ -71,16 +71,16 @@ Package: ragnarok-xserv
 Version: 01
 Architecture: amd64
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
-Installed-Size: 1894
+Installed-Size: 1912
 Depends: xserver-xorg-core, xinit, x11-xserver-utils, xdg-utils, xdg-user-dirs, xclip, xcompmgr, xterm, hsetroot, alsa-utils
 Multi-Arch: foreign
 Priority: optional
 Section: misc
 Filename: pool/main/r/ragnarok-xserv/ragnarok-xserv_01_amd64.deb
-Size: 1930616
-SHA256: 179e2f9a759935181c7e6b86d5e3ce0890ea05e7afba7ef7c676b01afdf87cb7
-SHA1: a15f97f3b36a2f990c7ec65a72ff6dbf10edf745
-MD5sum: 0c9f24a11bf72decb8659f4a4e7a8dc4
+Size: 1942776
+SHA256: cfc4c6c2911d1f6b73daf043a28b8b654cb9a5a1034e5d53da092a0721eb4abc
+SHA1: 3760272144e5b2bb1edffb1108e0c7faf08d1259
+MD5sum: c7f677fee665f9c39dad92f3a9e039d5
 Description: meta-package for Ragnarok's xserver set.
  This is a meta-package which depends on all programs that
  are needed for Ragnarok's xserver set.
