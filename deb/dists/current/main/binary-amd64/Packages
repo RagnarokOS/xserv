@@ -68,19 +68,19 @@ Description: meta-package for Ragnarok's xprogs set.
  are needed for Ragnarok's xprogs set.
 
 Package: ragnarok-xserv
-Version: 01
+Version: 01-1
 Architecture: amd64
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
-Installed-Size: 1912
+Installed-Size: 1913
 Depends: xserver-xorg-core, xinit, x11-xserver-utils, xdg-utils, xdg-user-dirs, xclip, xcompmgr, xterm, hsetroot, alsa-utils
 Multi-Arch: foreign
 Priority: optional
 Section: misc
-Filename: pool/main/r/ragnarok-xserv/ragnarok-xserv_01_amd64.deb
-Size: 1942776
-SHA256: cfc4c6c2911d1f6b73daf043a28b8b654cb9a5a1034e5d53da092a0721eb4abc
-SHA1: 3760272144e5b2bb1edffb1108e0c7faf08d1259
-MD5sum: c7f677fee665f9c39dad92f3a9e039d5
+Filename: pool/main/r/ragnarok-xserv/ragnarok-xserv_01-1_amd64.deb
+Size: 1942824
+SHA256: 5ea6d897b2aae5e62bff9a3eb2a5d62a2f873e71e9e9372765a41668c454cf74
+SHA1: 5d788e751696d678faa2d0af1372c6706535d140
+MD5sum: da7e6e9d3dc8b73a5569aed7f7240478
 Description: meta-package for Ragnarok's xserver set.
  This is a meta-package which depends on all programs that
  are needed for Ragnarok's xserver set.
