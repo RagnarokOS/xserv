@@ -1,6 +1,7 @@
 Origin: Ragnarok
 Label: Ragnarok
 Codename: current
+Suite: stable
 Architectures: amd64
 Components: main
 Description: Ragnarok's deb package repository for xorg pkgs
