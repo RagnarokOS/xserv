@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 30 Apr 2024 11:37:33 -0400
+Source: surf
+Binary: surf surf-dbgsym
+Architecture: amd64
+Version: 2.1+git20221016-99ragnarok01
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ surf       - Simple web browser by suckless community
+Changes:
+ surf (2.1+git20221016-99ragnarok01) stable; urgency=medium
+ .
+   * Begin maintaining our own Surf package.
+Checksums-Sha1:
+ 8b50c280a1376dcc2f56215efe131cbf4cd1e81b 50036 surf-dbgsym_2.1+git20221016-99ragnarok01_amd64.deb
+ 61a017acf0c07c14c5c7b624e59f2e19e31d810f 19000 surf_2.1+git20221016-99ragnarok01_amd64.buildinfo
+ a61fd05eb94b30b84c2512a84c66397d092e5fb5 27296 surf_2.1+git20221016-99ragnarok01_amd64.deb
+Checksums-Sha256:
+ c37a85e81981efecfcfa9d8e6aa482ffef3472622d747f0901f9c17ebaeb1459 50036 surf-dbgsym_2.1+git20221016-99ragnarok01_amd64.deb
+ 89e655e1ce7beb72ec2b94d5ca4750658b8a6102e6bcc41e4442f8feabadda8c 19000 surf_2.1+git20221016-99ragnarok01_amd64.buildinfo
+ c182eace2583619f158e51e75df00f8699b3413c677597cdbeb1b2848d707fc4 27296 surf_2.1+git20221016-99ragnarok01_amd64.deb
+Files:
+ 89cf7bbbdd13a0408cc9dd93a852b307 50036 debug optional surf-dbgsym_2.1+git20221016-99ragnarok01_amd64.deb
+ 8bf3ea4eed373d914cd5da9f3b6dba07 19000 web optional surf_2.1+git20221016-99ragnarok01_amd64.buildinfo
+ 400a42b261435d3c1d0d37e48744f7c7 27296 web optional surf_2.1+git20221016-99ragnarok01_amd64.deb
+Original-Maintainer: Reiner Herrmann <reiner@reiner-h.de>
