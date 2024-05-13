@@ -1,11 +1,8 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
 Origin: Ragnarok
 Label: Ragnarok
 Suite: stable
-Codename: current
-Date: Tue, 30 Apr 2024 19:47:29 UTC
+Codename: 01
+Date: Mon, 13 May 2024 17:13:07 UTC
 Architectures: amd64
 Components: main
 Description: Ragnarok's deb package repository for xorg pkgs
@@ -21,10 +18,3 @@ SHA256:
  7ae8493f7a541e89f0a78d0cbfd351b64db87e62121dbbd66e2afbbb87d09eca 5272 main/binary-amd64/Packages
  1bc680b7160e7719860f80e53fc8b8c766724b51d1b9e34813ce1fbd34d87294 2030 main/binary-amd64/Packages.gz
  10bb0b9242cab32bcb490cae6439b563be462264afb80caf5bf2d1e50c0b2fc5 146 main/binary-amd64/Release
------BEGIN PGP SIGNATURE-----
-
-iHUEARYIAB0WIQQd07yWiPPvmI0+oCME+3X+t3o0LwUCZjFK7gAKCRAE+3X+t3o0
-L44lAP9qMrm6NVuR0A+vSWCLF6KfrY+5WjnQyBIV/cCNX7WPbQEAoa0hbAlWhQ/e
-gDRS7Mo+D/3OyennTLfY4iirVCHrGAU=
-=ZWqX
------END PGP SIGNATURE-----
