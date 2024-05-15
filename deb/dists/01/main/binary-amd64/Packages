@@ -145,3 +145,20 @@ Description: Simple web browser by suckless community
  another URI by setting its XProperties.
 Original-Maintainer: Reiner Herrmann <reiner@reiner-h.de>
 
+Package: wmutils-core
+Version: 01
+Architecture: amd64
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Installed-Size: 270
+Depends: libxcb1-dev, libxcb-util-dev, libxcb-cursor-dev
+Multi-Arch: foreign
+Priority: optional
+Section: x11
+Filename: pool/main/w/wmutils-core/wmutils-core_01_amd64.deb
+Size: 23936
+SHA256: 033695bd7c90147fbede876878d71db360972824f9b7fa4d48a2595f9a3e0db9
+SHA1: d9eaa3c22775a15364f293285977843edb1e81b2
+MD5sum: c3d24a882115baf033659aaeb1e8ec63
+Description: wmutils-core
+ Window management utilities
+

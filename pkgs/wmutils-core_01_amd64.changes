@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 27 Mar 2024 11:24:03 -0400
+Source: wmutils-core
+Binary: wmutils-core wmutils-core-dbgsym
+Architecture: amd64
+Version: 01
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ wmutils-core - wmutils-core
+Changes:
+ wmutils-core (01) stable; urgency=medium
+ .
+   * Initial build of wmutils-core.
+Checksums-Sha1:
+ c590e9fd1ebcbde86eda23c9a4670283dcf5d80e 7744 wmutils-core-dbgsym_01_amd64.deb
+ 2b3a485df9ce24a836ac3979ae0554496ccd66bd 6240 wmutils-core_01_amd64.buildinfo
+ d9eaa3c22775a15364f293285977843edb1e81b2 23936 wmutils-core_01_amd64.deb
+Checksums-Sha256:
+ cfa9c15cb7abcb6f3343c4a5a19ed2a7a6a1d3a5a8576b5b8c610c6dcba172f8 7744 wmutils-core-dbgsym_01_amd64.deb
+ 7f4706f75de42f92e640eab5d52b866d1b53b41909fa2ddb09bf2910aedb1b4a 6240 wmutils-core_01_amd64.buildinfo
+ 033695bd7c90147fbede876878d71db360972824f9b7fa4d48a2595f9a3e0db9 23936 wmutils-core_01_amd64.deb
+Files:
+ bd867b32193dbf8e4a5a577bba5c8a06 7744 debug optional wmutils-core-dbgsym_01_amd64.deb
+ db9acef4186b7c05069bd7cb2b8982db 6240 x11 optional wmutils-core_01_amd64.buildinfo
+ c3d24a882115baf033659aaeb1e8ec63 23936 x11 optional wmutils-core_01_amd64.deb
