@@ -16,18 +16,18 @@ Description: Calm Window Manager
  Portable version of OpenBSD's calm window manager.
 
 Package: dmenu
-Version: 999+ragnarok01
+Version: 999+ragnarok01-1
 Architecture: amd64
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
-Installed-Size: 72
+Installed-Size: 58
 Multi-Arch: foreign
 Priority: optional
 Section: x11
-Filename: pool/main/d/dmenu/dmenu_999+ragnarok01_amd64.deb
-Size: 19036
-SHA256: 4faa00f2130034ce5f4850ec72cf6f9b0cc9af9f60deb8f8aa96d046d9b5c73f
-SHA1: 7a886cb24adbeacbdefb53dfe6e400cf202da52e
-MD5sum: 973d968fc9d0747d20430b4037311365
+Filename: pool/main/d/dmenu/dmenu_999+ragnarok01-1_amd64.deb
+Size: 18656
+SHA256: 1148b4a2269030f7077e30cd7829fd59bb65e8d6de8a0cc94286b8d314011072
+SHA1: 26b2ac8796bcd709824b18aa2d60556aa7b06de9
+MD5sum: cf71d5e0708859153eb850348ffa895f
 Description: dmenu
  This is Ragnarok's fork of dmenu.
 
@@ -86,19 +86,20 @@ Description: meta-package for Ragnarok's xserver set.
  are needed for Ragnarok's xserver set.
 
 Package: raven
-Version: 01
+Version: 01.1
 Architecture: amd64
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
 Installed-Size: 82
+Depends: rt, dmenu
 Provides: x-window-manager
 Multi-Arch: foreign
 Priority: optional
 Section: x11
-Filename: pool/main/r/raven/raven_01_amd64.deb
-Size: 27888
-SHA256: 3c0768ea34d925277bbca06b8739638a13ed9ef138bdc3fa22bd3e7a86e859df
-SHA1: 01ffb6b7551bcb89e60e2f5e123ecd0c5099ec6d
-MD5sum: a5f451bb433c28e5e0cb047335fbf7aa
+Filename: pool/main/r/raven/raven_01.1_amd64.deb
+Size: 28700
+SHA256: 835e2953e367df055be53df9b5bd2ee9e4874b51f51ffa823f842426c106289c
+SHA1: 5513ab2e7f19004f13294cf3d3834b8f9c76d74f
+MD5sum: 8e653aec0a27a40430774a1d86cb0fa8
 Description: A Dynamic Window Manager
  This is Ragnarok's fork of dwm.
 

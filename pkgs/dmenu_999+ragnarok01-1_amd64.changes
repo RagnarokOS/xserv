@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 05 Jun 2024 13:59:13 -0400
+Source: dmenu
+Binary: dmenu dmenu-dbgsym
+Architecture: amd64
+Version: 999+ragnarok01-1
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ dmenu      - dmenu
+Changes:
+ dmenu (999+ragnarok01-1) stable; urgency=medium
+ .
+   * Fix default height to match with Raven's bar height.
+Checksums-Sha1:
+ df0663d1302ab8aad3df3cf9a6d958f71db34db4 4168 dmenu-dbgsym_999+ragnarok01-1_amd64.deb
+ 567218f978d8477f012096e5fa4892db5694a3a7 6219 dmenu_999+ragnarok01-1_amd64.buildinfo
+ 26b2ac8796bcd709824b18aa2d60556aa7b06de9 18656 dmenu_999+ragnarok01-1_amd64.deb
+Checksums-Sha256:
+ 4448889eccccef4020e24cc612ac196da050506bc9a63a798b418567274831d3 4168 dmenu-dbgsym_999+ragnarok01-1_amd64.deb
+ b711c216e8a1866e2212b0d519dc9198ea5e504cf0c9244abb30af52a7af7846 6219 dmenu_999+ragnarok01-1_amd64.buildinfo
+ 1148b4a2269030f7077e30cd7829fd59bb65e8d6de8a0cc94286b8d314011072 18656 dmenu_999+ragnarok01-1_amd64.deb
+Files:
+ 05cc58b6638422a73594e5a9621c9a45 4168 debug optional dmenu-dbgsym_999+ragnarok01-1_amd64.deb
+ 0592222791f45035c613f304ba079c86 6219 x11 optional dmenu_999+ragnarok01-1_amd64.buildinfo
+ cf71d5e0708859153eb850348ffa895f 18656 x11 optional dmenu_999+ragnarok01-1_amd64.deb

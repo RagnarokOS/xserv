@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 05 Jun 2024 13:50:46 -0400
+Source: raven
+Binary: raven raven-dbgsym
+Architecture: amd64
+Version: 01.1
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ raven      - A Dynamic Window Manager
+Changes:
+ raven (01.1) stable; urgency=medium
+ .
+   * Build using config.h.
+   * Added statusbar.sh example script.
+   * Added the spawn function.
+   * Changed how bar height is calculated.
+Checksums-Sha1:
+ 02f858beb54b961b732b0e701b9831317b3a19b2 4452 raven-dbgsym_01.1_amd64.deb
+ 1c10dddb6341f20a93e3d46fd3ed35b83317ffa1 6135 raven_01.1_amd64.buildinfo
+ 5513ab2e7f19004f13294cf3d3834b8f9c76d74f 28700 raven_01.1_amd64.deb
+Checksums-Sha256:
+ 2e0fea4a92b18a026fb325a6ae24b9d566c0949a6f14012af24417d7ce322c75 4452 raven-dbgsym_01.1_amd64.deb
+ 803d355e361ba6eaa2088e5950032f579ae2b5d500b8cfb27f444d13f6eb8c0c 6135 raven_01.1_amd64.buildinfo
+ 835e2953e367df055be53df9b5bd2ee9e4874b51f51ffa823f842426c106289c 28700 raven_01.1_amd64.deb
+Files:
+ bc92444e48f9fdd70fbf493bbb6d88dc 4452 debug optional raven-dbgsym_01.1_amd64.deb
+ b48863f84419fcc85c362ea3b5415281 6135 x11 optional raven_01.1_amd64.buildinfo
+ 8e653aec0a27a40430774a1d86cb0fa8 28700 x11 optional raven_01.1_amd64.deb
