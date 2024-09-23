@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 22 Sep 2024 11:19:08 -0400
+Source: ragnarok-xserv
+Binary: ragnarok-xserv
+Architecture: amd64
+Version: 01-2
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ ragnarok-xserv - meta-package for Ragnarok's xserver set.
+Changes:
+ ragnarok-xserv (01-2) stable; urgency=medium
+ .
+   * Moved hsetroot, xclip and xcompmgr depends to xprogs.
+Checksums-Sha1:
+ c71dbc7df9b1a63b3ab73df3694a569e690a8f37 5918 ragnarok-xserv_01-2_amd64.buildinfo
+ 2656aa7b8736271ed920ecfb1cf8eb7104e903e0 2828 ragnarok-xserv_01-2_amd64.deb
+Checksums-Sha256:
+ 1ba75013ca1c1ab4b7b1aff962a424de0dfddac3c0941fa84a5b2a2e137f9de2 5918 ragnarok-xserv_01-2_amd64.buildinfo
+ a3b598a7c42e98b44036080b7fb446205c350febd4f1c26e52c1e7c8d3c3dd64 2828 ragnarok-xserv_01-2_amd64.deb
+Files:
+ c19966021d727ae094d5f69804bbfbf6 5918 misc optional ragnarok-xserv_01-2_amd64.buildinfo
+ 10bbfd27b1c202aaeabf00c77e72d864 2828 misc optional ragnarok-xserv_01-2_amd64.deb

@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 22 Sep 2024 11:20:18 -0400
+Source: ragnarok-xprogs
+Binary: ragnarok-xprogs
+Architecture: amd64
+Version: 01-1
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ ragnarok-xprogs - meta-package for Ragnarok's xprogs set.
+Changes:
+ ragnarok-xprogs (01-1) stable; urgency=medium
+ .
+   * Added hsetroot, xclip and xcompmgr depends.
+Checksums-Sha1:
+ 6d82a7981064daa544a11776872d9ea92b2a9e1f 5932 ragnarok-xprogs_01-1_amd64.buildinfo
+ 16fd8cb15818dd7c350553b30309c24e5734053b 1943880 ragnarok-xprogs_01-1_amd64.deb
+Checksums-Sha256:
+ 6639b2ccd1e687d05fd53edadb59ed456fb150d52dabc5b8a525248cbdf2818d 5932 ragnarok-xprogs_01-1_amd64.buildinfo
+ f5376dfc04eebceb31e6fe108e0e2451b4081c33bd10aa5c7f03b0fc89f6a223 1943880 ragnarok-xprogs_01-1_amd64.deb
+Files:
+ 842243a71e26bb725bfeb8c10a98bec0 5932 misc optional ragnarok-xprogs_01-1_amd64.buildinfo
+ f7d50de637b45dfc730e067092bd3ef0 1943880 misc optional ragnarok-xprogs_01-1_amd64.deb
