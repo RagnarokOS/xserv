@@ -86,22 +86,24 @@ Description: meta-package for Ragnarok's xserver set.
  are needed for Ragnarok's xserver set.
 
 Package: raven
-Version: 01.2
+Version: 01.3
 Architecture: amd64
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
-Installed-Size: 82
-Depends: rt, dmenu
-Provides: x-window-manager
-Multi-Arch: foreign
+Depends: debhelper-compat (= 13),
+ libx11-dev,
+ libxinerama-dev,
+ libxft-dev,
+ libfreetype6-dev,
+ dpkg-dev
 Priority: optional
 Section: x11
-Filename: pool/main/r/raven/raven_01.2_amd64.deb
-Size: 28748
-SHA256: d790936207b96d67a86feb2f4daee69c2b958a6800be4720bfc54fe13b07ae81
-SHA1: 97b42fdc7752269b379fe9d476153f6c5614d801
-MD5sum: 234be93a33c4a4a94cd7c1a9088d7b8b
-Description: A Dynamic Window Manager
- This is Ragnarok's fork of dwm.
+Filename: pool/main/r/raven/raven_01.3_amd64.deb
+Size: 61000
+SHA256: 376a53408a538335f77b1e177eddfdebb909b6d4441c3fa60a77e03c2087933d
+SHA1: a610bd75f4a3974852856e14d7cc99eef42ff7af
+MD5sum: 09681259edab61978a724f845582b671
+Description: The Raven window manager
+ Raven is a fork of Suckless' dwm.
 
 Package: rt
 Version: 01
