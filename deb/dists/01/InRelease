@@ -5,7 +5,7 @@ Origin: Ragnarok
 Label: Ragnarok
 Suite: stable
 Codename: 01
-Date: Thu, 21 Nov 2024 16:09:47 UTC
+Date: Thu, 21 Nov 2024 16:19:52 UTC
 Architectures: amd64
 Components: main
 Description: Ragnarok's deb package repository for xorg pkgs
@@ -23,8 +23,8 @@ SHA256:
  10bb0b9242cab32bcb490cae6439b563be462264afb80caf5bf2d1e50c0b2fc5 146 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQd07yWiPPvmI0+oCME+3X+t3o0LwUCZz9bSwAKCRAE+3X+t3o0
-L5y4AP4kvZFU9ARiolF4132EiFn4IrOt4ryLd88SujVDiAHypAEAg3oTHG7sbDcN
-xX2bHkqlmOL1Gw/2HpWnZLYeeOghdQs=
-=6i9/
+iHUEARYIAB0WIQQd07yWiPPvmI0+oCME+3X+t3o0LwUCZz9dqQAKCRAE+3X+t3o0
+L4aBAQC2/7yZWBBEMCJ7aOsy+2E6g7LjVQjK88l+s3kV99ZfzQD/W7WA8dK9yfN+
+lRZBoiaHhcqN1SAoiAVjAqLV50F+JQ0=
+=boNo
 -----END PGP SIGNATURE-----
