@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 26 Nov 2024 11:42:38 -0500
+Source: ragnarok-xprogs
+Binary: ragnarok-xprogs
+Architecture: amd64
+Version: 01-2
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ ragnarok-xprogs - meta-package for Ragnarok's xprogs set.
+Changes:
+ ragnarok-xprogs (01-2) stable; urgency=medium
+ .
+   * Updated .cwmrc example and added example polybar config.
+Checksums-Sha1:
+ f8dffee1613636f05d4d71fa124fa4ebc7b2be21 5972 ragnarok-xprogs_01-2_amd64.buildinfo
+ b7bd3e86d0cab126d6af1c5f5e4106341145fac3 1944916 ragnarok-xprogs_01-2_amd64.deb
+Checksums-Sha256:
+ 60c818a8c347bf90fc4bbbd96415c17b4e4381395ff4893942afe25b0a1e942b 5972 ragnarok-xprogs_01-2_amd64.buildinfo
+ 9124b912a01859be89bd41df13378a5f33c79a3b37ff19b185cc72fb843b73cc 1944916 ragnarok-xprogs_01-2_amd64.deb
+Files:
+ e6747e1f1e6bb3dadde19cb30e5fe4ef 5972 misc optional ragnarok-xprogs_01-2_amd64.buildinfo
+ 576b3bffa27b7b3973d8fd4e7be7c04c 1944916 misc optional ragnarok-xprogs_01-2_amd64.deb

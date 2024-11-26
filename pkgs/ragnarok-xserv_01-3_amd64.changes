@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 26 Nov 2024 11:43:40 -0500
+Source: ragnarok-xserv
+Binary: ragnarok-xserv
+Architecture: amd64
+Version: 01-3
+Distribution: stable
+Urgency: medium
+Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Changed-By: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
+Description:
+ ragnarok-xserv - meta-package for Ragnarok's xserver set.
+Changes:
+ ragnarok-xserv (01-3) stable; urgency=medium
+ .
+   * Added x11-utils to depends.
+Checksums-Sha1:
+ b44c929d43c49f6823dabad99a2a5d1963c5be18 5958 ragnarok-xserv_01-3_amd64.buildinfo
+ 742d40da31b1f466b670fb0502bca6da2a4f1d10 2868 ragnarok-xserv_01-3_amd64.deb
+Checksums-Sha256:
+ 3d8bd0c2309465498ba540f45180f4e81cd20d40a7318bef1bbfc908d4699a32 5958 ragnarok-xserv_01-3_amd64.buildinfo
+ 3e2c2a0e2c768524ef14cee98105cf2a6c972bee916f5974acfe54e7a0e98961 2868 ragnarok-xserv_01-3_amd64.deb
+Files:
+ 4f8db25d99320d97b8a3381b6e6c4864 5958 misc optional ragnarok-xserv_01-3_amd64.buildinfo
+ aa03653c6060b0dbde89fa1dbc183a44 2868 misc optional ragnarok-xserv_01-3_amd64.deb

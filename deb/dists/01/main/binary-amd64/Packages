@@ -50,43 +50,43 @@ Description: meta-package for Ragnarok's xfonts "set".
  are needed for Ragnarok's xfonts set.
 
 Package: ragnarok-xprogs
-Version: 01-1
+Version: 01-2
 Architecture: amd64
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
-Installed-Size: 1919
+Installed-Size: 1923
 Depends: raven, cwm, rt, dmenu, libfontconfig1-dev, libfreetype6-dev, libx11-dev, libxft-dev, libxinerama-dev, libxcb1-dev, libxcb-util-dev, libxcb-cursor-dev, xclip, xcompmgr, hsetroot
 Multi-Arch: foreign
 Priority: optional
 Section: misc
-Filename: pool/main/r/ragnarok-xprogs/ragnarok-xprogs_01-1_amd64.deb
-Size: 1943880
-SHA256: f5376dfc04eebceb31e6fe108e0e2451b4081c33bd10aa5c7f03b0fc89f6a223
-SHA1: 16fd8cb15818dd7c350553b30309c24e5734053b
-MD5sum: f7d50de637b45dfc730e067092bd3ef0
+Filename: pool/main/r/ragnarok-xprogs/ragnarok-xprogs_01-2_amd64.deb
+Size: 1944916
+SHA256: 9124b912a01859be89bd41df13378a5f33c79a3b37ff19b185cc72fb843b73cc
+SHA1: b7bd3e86d0cab126d6af1c5f5e4106341145fac3
+MD5sum: 576b3bffa27b7b3973d8fd4e7be7c04c
 Description: meta-package for Ragnarok's xprogs set.
  This is a meta-package which depends on all programs that
  are needed for Ragnarok's xprogs set.
 
 Package: ragnarok-xserv
-Version: 01-2
+Version: 01-3
 Architecture: amd64
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
 Installed-Size: 11
-Depends: xserver-xorg-core, xinit, x11-xserver-utils, xdg-utils, xdg-user-dirs, xterm, alsa-utils
+Depends: xserver-xorg-core, xinit, x11-xserver-utils, x11-utils, xdg-utils, xdg-user-dirs, xterm, alsa-utils
 Multi-Arch: foreign
 Priority: optional
 Section: misc
-Filename: pool/main/r/ragnarok-xserv/ragnarok-xserv_01-2_amd64.deb
-Size: 2828
-SHA256: a3b598a7c42e98b44036080b7fb446205c350febd4f1c26e52c1e7c8d3c3dd64
-SHA1: 2656aa7b8736271ed920ecfb1cf8eb7104e903e0
-MD5sum: 10bbfd27b1c202aaeabf00c77e72d864
+Filename: pool/main/r/ragnarok-xserv/ragnarok-xserv_01-3_amd64.deb
+Size: 2868
+SHA256: 3e2c2a0e2c768524ef14cee98105cf2a6c972bee916f5974acfe54e7a0e98961
+SHA1: 742d40da31b1f466b670fb0502bca6da2a4f1d10
+MD5sum: aa03653c6060b0dbde89fa1dbc183a44
 Description: meta-package for Ragnarok's xserver set.
  This is a meta-package which depends on all programs that
  are needed for Ragnarok's xserver set.
 
 Package: raven
-Version: 01.3-1
+Version: 01.4
 Architecture: amd64
 Maintainer: Ian LeCorbeau <I-LeCorbeau@protonmail.com>
 Depends: libx11-dev,
@@ -96,11 +96,11 @@ Depends: libx11-dev,
  dpkg-dev
 Priority: optional
 Section: x11
-Filename: pool/main/r/raven/raven_01.3-1_amd64.deb
-Size: 59328
-SHA256: 5b460eddad27b999bf474bf85227dd6c1eee5df9183bfc4f7946d291fc449add
-SHA1: 93a7b33f68d02730abfc0a9d8bcb5ba6f2062232
-MD5sum: a26e7376eb9a7289d39c083a735bde42
+Filename: pool/main/r/raven/raven_01.4_amd64.deb
+Size: 61012
+SHA256: 3bdd121b0373c4c9a649ab068edb45b0ea06816e2eabcc24915bf55759c352a3
+SHA1: 80832c21e0db2cfd71036415ac2d063daed8e592
+MD5sum: be02c74f7fc1e777e821e84c4f5baeea
 Description: The Raven window manager
  Raven is a fork of Suckless' dwm.
 
